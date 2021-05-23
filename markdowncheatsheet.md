@@ -90,11 +90,10 @@ __bold__
 *** three asterisks
 ___ three under scores
 ```
---- three hyphens
+--- 
 
-*** three asterisks
-
-___ three under scores
+***
+___
 
 #### Quotes
 ```
